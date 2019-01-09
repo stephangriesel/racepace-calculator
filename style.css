@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta');
+
+body {
+    margin:0;
+    padding:0;
+    font-family: 'Mukta', sans-serif;
+
+}
+
+.container {
+    transform: translate(-50%,-50%);
+    position: absolute;
+    width:400px;
+    height:400px;
+    top:50%;
+    bottom:50%;
+    left:50%;
+    text-align:center;
+}
+
+.inner {
+    text-align: left;
+    padding-left:30px;
+}
+
+input {
+    background: #7eb2ff;
+    color:#FFFFFF;
+    padding:10px;
+    font-size:20px;
+    border-radius: 10px;
+    width:50px;
+    border:none;
+}
+
+#calculate_btn {
+    color:#FFFFFF;
+    padding:15px;
+    margin:10px;
+    background: #7eb2ff;
+    border-radius: 10px;
+    border:none;
+    font-size:20px;
+    text-transform: uppercase;
+}
+
+
