@@ -50,7 +50,12 @@ input {
 }
 
 #pace {
-    font-size:22px;
+    color:#FFFFFF;
+    font-size:20px;
+    transition:ease-out 3s;
+    transition-property: background-color;
+    background: #7d8ba0;
+    padding-left:10px;
 }
 
 
