@@ -36,6 +36,7 @@ input {
     border-radius: 10px;
     width:50px;
     border:none;
+    outline:none;
 }
 
 #calculate_btn {
