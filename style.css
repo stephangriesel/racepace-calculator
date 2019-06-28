@@ -14,7 +14,7 @@ h1 {
 .container {
     transform: translate(-50%,-50%);
     position: absolute;
-    width:40vw;
+    width:400px;
     height:400px;
     top:40%;
     bottom:50%;
@@ -59,7 +59,7 @@ input {
     padding-left:10px;
 }
 
-.alignmiddle {
+.affiliate {
     text-align: center !important;
 }
 
