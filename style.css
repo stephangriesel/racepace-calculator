@@ -14,7 +14,7 @@ h1 {
 .container {
     transform: translate(-50%,-50%);
     position: absolute;
-    width:400px;
+    width:40vw;
     height:400px;
     top:40%;
     bottom:50%;
@@ -23,7 +23,7 @@ h1 {
 }
 
 .inner {
-    text-align: left;
+    text-align: center;
     padding-left:30px;
 }
 
@@ -57,6 +57,10 @@ input {
     transition-property: background-color;
     background: #7d8ba0;
     padding-left:10px;
+}
+
+.alignmiddle {
+    text-align: center !important;
 }
 
 
